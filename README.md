@@ -1,2 +1,2 @@
 # Faisal-project
-Testing, how to creat a repository
+Testing, how to create a repository
